@@ -4,6 +4,8 @@ I build applied software and AI systems, from web workspaces and business applic
 
 **DanielDoWork is my first major software project and my largest investment of personal effort and self-funded development.** Its [web application](https://github.com/yo20ywork-max/danieldowork-showcase) and [AI infrastructure](https://github.com/yo20ywork-max/danieldowork-ai-showcase) are two components of the same product.
 
+**Research:** [FocusOYL-MathMorph](https://github.com/yo20ywork-max/FocusOYL-MathMorph) explores training-free GGUF spectral editing, mathematical methods, controlled experiments, and negative results.
+
 [Explore the full portfolio](https://github.com/yo20ywork-max/research-portfolio) · [Repository and product relationships](https://github.com/yo20ywork-max/research-portfolio/blob/main/PROJECT_MAP.md)
 
 ## Public project directory
@@ -13,6 +15,7 @@ I build applied software and AI systems, from web workspaces and business applic
 | [DanielDoWork — AI Workspace](https://github.com/yo20ywork-max/danieldowork-showcase) | Case study + runnable classification excerpt |
 | [DanielDoWork — AI Infrastructure](https://github.com/yo20ywork-max/danieldowork-ai-showcase) | Protocol parser + 9 selected tests |
 | [FocusOYL — Local AI Translator & Agent](https://github.com/2ykrrmyscg-del/FocusOYL) | Source code + releases |
+| [FocusOYL-MathMorph](https://github.com/yo20ywork-max/FocusOYL-MathMorph) | Model-editing research repository |
 | [Focus Oyl — Reminders](https://github.com/yo20ywork-max/focus-oyl-reminders) | Application source + mobile projects |
 | [Privacy Display](https://github.com/yo20ywork-max/privacy-display) | Android source; two iterations |
 | [GameBoost](https://github.com/yo20ywork-max/gameboost) | Backend, desktop client, and node agent source |
@@ -25,8 +28,8 @@ I build applied software and AI systems, from web workspaces and business applic
 | [ChatGPT–Codex Bridge](https://github.com/yo20ywork-max/chatgpt-codex-bridge) | Source code |
 | [Development Context & Handoff](https://github.com/yo20ywork-max/dev-context-showcase) | Method + sanitized templates |
 
-The portfolio represents **14 source repositories**. Related components and development iterations are identified explicitly. Public showcase repositories present those existing contributions; they are not counted as additional products.
+The portfolio represents **15 source repositories**. Related components and development iterations are identified explicitly. Public showcase repositories present those existing contributions; they are not counted as additional products.
 
-FocusOYL's translator source is maintained under my `2ykrrmyscg-del` account. Focus Oyl Reminders is a separate application.
+FocusOYL's translator source is maintained under my `2ykrrmyscg-del` account. Focus Oyl Reminders is a separate application, and FocusOYL-MathMorph is a separate model-editing research project.
 
 I use AI coding assistants in an iterative development process. Public READMEs describe implementation scope, evidence, and limitations. Company and client work is presented through reviewed case studies; private data, operational credentials, and unpublished company IP are excluded. Third-party frameworks and models retain their own attribution and licenses.

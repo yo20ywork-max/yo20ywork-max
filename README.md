@@ -1,20 +1,32 @@
 # Daniel Tang
 
-I build applied software and AI systems, from web workspaces and business websites to local inference and desktop tools.
+I build applied software and AI systems, from web workspaces and business applications to native mobile tools, local inference, and networking prototypes.
 
-[Explore my software and AI portfolio](https://github.com/yo20ywork-max/research-portfolio)
+**DanielDoWork is my first major software project and my largest investment of personal effort and self-funded development.** Its [web application](https://github.com/yo20ywork-max/danieldowork-showcase) and [AI infrastructure](https://github.com/yo20ywork-max/danieldowork-ai-showcase) are two components of the same product.
 
-**Featured: DanielDoWork**, my first major software project and my largest investment of personal effort and self-funded development. Its web application and AI infrastructure are documented together as two components of one product.
+[Explore the full portfolio](https://github.com/yo20ywork-max/research-portfolio) · [Repository and product relationships](https://github.com/yo20ywork-max/research-portfolio/blob/main/PROJECT_MAP.md)
 
-**Open-source project: [FocusOYL — Local AI Translator & Agent](https://github.com/2ykrrmyscg-del/FocusOYL).** My local AI project includes a Windows resident translator and a separate cross-platform agent development track, with native integration, packaging, and validation documentation. The source repository is maintained under my `2ykrrmyscg-del` account.
+## Public project directory
 
-[FocusOYL source code](https://github.com/2ykrrmyscg-del/FocusOYL) · [Downloads and releases](https://github.com/2ykrrmyscg-del/FocusOYL/releases) · [Project case study](https://github.com/yo20ywork-max/research-portfolio/blob/main/projects/focusoyl.md)
+| Project | Public material |
+|---|---|
+| [DanielDoWork — AI Workspace](https://github.com/yo20ywork-max/danieldowork-showcase) | Case study + runnable classification excerpt |
+| [DanielDoWork — AI Infrastructure](https://github.com/yo20ywork-max/danieldowork-ai-showcase) | Protocol parser + 9 selected tests |
+| [FocusOYL — Local AI Translator & Agent](https://github.com/2ykrrmyscg-del/FocusOYL) | Source code + releases |
+| [Focus Oyl — Reminders](https://github.com/yo20ywork-max/focus-oyl-reminders) | Application source + mobile projects |
+| [Privacy Display](https://github.com/yo20ywork-max/privacy-display) | Android source; two iterations |
+| [GameBoost](https://github.com/yo20ywork-max/gameboost) | Backend, desktop client, and node agent source |
+| [Community OS](https://github.com/yo20ywork-max/community-os-showcase) | Runnable static frontend prototype |
+| [CrossGen — Platform](https://github.com/yo20ywork-max/crossgen-showcase) | Company project case study |
+| [CrossGen — Architecture & CI](https://github.com/yo20ywork-max/crossgen-lab-showcase) | Related engineering workstream |
+| [Tianqing — Website](https://github.com/yo20ywork-max/tqcpb-showcase) | Client website case study |
+| [Millennium — CMS](https://github.com/yo20ywork-max/millennium-web-showcase) | Company website/CMS case study |
+| [Millennium — CMS Development](https://github.com/yo20ywork-max/millennium-cms-showcase) | Related earlier development contribution |
+| [ChatGPT–Codex Bridge](https://github.com/yo20ywork-max/chatgpt-codex-bridge) | Source code |
+| [Development Context & Handoff](https://github.com/yo20ywork-max/dev-context-showcase) | Method + sanitized templates |
 
-The portfolio covers **11 source repositories**, with each project's purpose, implementation scope, evidence, and relationship to other work. Company and client projects are represented through public case studies.
+The portfolio represents **14 source repositories**. Related components and development iterations are identified explicitly. Public showcase repositories present those existing contributions; they are not counted as additional products.
 
-- **AI applications:** DanielDoWork workspace and AI infrastructure; CrossGen workflow platform.
-- **Desktop and local AI:** [FocusOYL](https://github.com/2ykrrmyscg-del/FocusOYL) translator and cross-platform agent work.
-- **Developer tools:** ChatGPT–Codex Bridge; architecture, CI, and development handoff.
-- **Business applications:** Millennium CMS, Tianqing website, and Community OS prototype.
+FocusOYL's translator source is maintained under my `2ykrrmyscg-del` account. Focus Oyl Reminders is a separate application.
 
-I use AI coding assistants in an iterative development process and document implementation limits alongside results. Third-party frameworks and models are credited in the relevant projects.
+I use AI coding assistants in an iterative development process. Public READMEs describe implementation scope, evidence, and limitations. Company and client work is presented through reviewed case studies; private data, operational credentials, and unpublished company IP are excluded. Third-party frameworks and models retain their own attribution and licenses.

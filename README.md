@@ -1,16 +1,14 @@
-## Hi there 👋
+# Daniel Tang
 
-<!--
-**yo20ywork-max/yo20ywork-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build applied software and AI systems, from web workspaces and business websites to local inference and desktop tools.
 
-Here are some ideas to get you started:
+[Explore my software and AI portfolio](https://github.com/yo20ywork-max/research-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The portfolio covers **11 source repositories**, with each project's purpose, implementation scope, evidence, and relationship to other work. Company and client projects are represented through public case studies.
+
+- **AI applications:** DanielDoWork workspace and AI infrastructure; CrossGen workflow platform.
+- **Desktop and local AI:** FocusOYL translator and cross-platform agent work.
+- **Developer tools:** ChatGPT–Codex Bridge; architecture, CI, and development handoff.
+- **Business applications:** Millennium CMS, Tianqing website, and Community OS prototype.
+
+I use AI coding assistants in an iterative development process and document implementation limits alongside results. Third-party frameworks and models are credited in the relevant projects.
